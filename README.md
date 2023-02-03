@@ -19,5 +19,5 @@ Credit goes to the staff for providing us with this complex challenge that helpe
 N/A
 ## Deployment Link 
 #
-(https://bignate38.github.io/Web-API-Code-Quiz/)
+(https://bignate38.github.io/Work-Day-Scheduler-/)
 ![SiteImage](assets/images/Scheduler_Pic.png)
